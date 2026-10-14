@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+video_index.db
+test_data/
+*.mp4
+*.mkv
+*.avi
+*.mov
