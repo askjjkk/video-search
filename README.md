@@ -38,3 +38,7 @@ ffmpeg не нужен: звук читает библиотека PyAV.
 
 ## Лицензия
 MIT, см. файл LICENSE.
+
+## Канал автора
+
+Новые проекты и обновления: [askjjkk projects в Telegram](https://t.me/askjjkkproject).
